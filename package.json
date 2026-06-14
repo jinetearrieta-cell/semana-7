@@ -1,0 +1,24 @@
+{
+  "name": "semana-7",
+  "version": "1.0.0",
+  "description": "Actividad final semana 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinetearrieta-cell/semana-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jinetearrieta-cell/semana-7/issues"
+  },
+  "homepage": "https://github.com/jinetearrieta-cell/semana-7#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
